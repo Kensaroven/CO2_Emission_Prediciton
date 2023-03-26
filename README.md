@@ -35,3 +35,8 @@ City and highway fuel consumption ratings are shown in litres per 100 kilometres
 
 ##### CO2 Emissions
 The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving
+
+## Distribution by model wise
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
