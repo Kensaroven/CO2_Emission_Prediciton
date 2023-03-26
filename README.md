@@ -38,5 +38,5 @@ The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined c
 
 ## Distribution by model wise
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Kensaroven/CO2_Emission_Prediciton/blob/main/Screenshot%202023-03-26%20at%203.58.13%20PM.png?raw=true)
 
